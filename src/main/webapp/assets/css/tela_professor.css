@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/09/2018, 14:51:39
+    Author     : vitor_9g3eyo1
+*/
+
+.icones {
+width:16px;
+height:16px;
+}
+
+#cardturma {
+   box-shadow: 0 3px 6px rgba(0,0,0,0.10), 0 3px 6px rgba(0,0,0,0.13);
+   border: none;
+   border-radius: 0px;
+   padding: 10px;
+}
+
+
+#cardturma:hover{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
